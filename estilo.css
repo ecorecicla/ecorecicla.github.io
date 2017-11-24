@@ -1,0 +1,66 @@
+ .text{
+
+         font-style:italic;
+      font-weight:bold;
+      font-size:2em;
+      font-family:'Helvetica';
+       color: aliceblue;
+        margin-right: 150px;    
+
+        }
+        
+.text2{
+            
+            font-family: Verdana;
+    font-family: 'PT Sans'; 
+        }
+        .barra{
+            left: 500px;            
+        }
+        
+.video{
+            
+            width: 100%;
+            min-width: 100%;
+            min-height: 100%;
+        }
+
+
+.body_juego{
+    
+    position:relative;
+}
+.titulo{
+    
+    color: green;
+    text-align: center;
+    font: oblique bold 120% cursive;
+    font-size: 35px;
+}
+
+.imagen_index{
+    
+    width: 400px;
+    
+    
+}
+
+.img{
+    width: 720px;
+    height: 480;
+    
+}
+
+.italic{
+    font-style: italic;
+		font-weight: bold;
+		font-size: 30px;
+		font-family: arial, sans-serif;
+}
+
+.letra_juego{
+    color: white;
+}  
+.letra_creditos{
+    color: red;
+}
